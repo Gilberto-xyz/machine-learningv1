@@ -1,14 +1,13 @@
-# Machine Learning v1
+# ML - Mañaneras
 
-Este repositorio mantiene un caso practico de procesamiento de lenguaje natural.
+Este repositorio mantiene un caso practico de procesamiento de lenguaje natural con el analisis de texto obtenido de una base de datos de las conferencias en mexico "Las mañaneras"
 
-## Analisis de conferencias
+### Análisis de conferencias
 
 Las conferencias de mexico se encuentran almacenadas en [Kaggle](https://www.kaggle.com/datasets/ioexception/mananeras)
 
 El dataset utilizado esta almacenado en formato CSV y se puede descargar [aqui](https://www.kaggle.com/code/ioexception/extraer-di-logos-de-amlo-y-l-pez-gatell/data)
 
-<iframe
-  src="https://www.kaggle.com/code/ioexception/extraer-di-logos-de-amlo-y-l-pez-gatell/data"
-  style="width:100%; height:300px;"
-></iframe>
+### Resultados
+
+Puedes ver todo el proceso en el Notebook [quien-esta-hablando](https://github.com/GilbertoNavaMarcos/template-notebooks/blob/main/template%20headers.ipynb)
