@@ -12,4 +12,4 @@ El dataset utilizado esta almacenado en formato CSV y se puede descargar [aqui](
 ### Resultados
 
 Puedes ver todo el proceso en el Notebook [quien-esta-hablando](https://github.com/GilbertoNavaMarcos/machine-learningv1/blob/main/quien-esta-hablando.ipynb)
-![referencia]('ref.png')
+![referencia](https://raw.githubusercontent.com/GilbertoNavaMarcos/machine-learningv1/main/data/ref.png)
